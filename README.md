@@ -52,6 +52,7 @@ git clone <repository-url>
    ```
    npm start
    ```
+   You will see it running in like http://localhost:3000/
 
 ## Usage
 

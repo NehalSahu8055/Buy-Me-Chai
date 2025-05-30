@@ -55,7 +55,7 @@ function App() {
   return (
     <div style={{ backgroundColor: "#EFEFEF", height: "100%" }}>
       <center>
-        <img src={chai} className="img-fluid mx-auto" alt=".." width="400" />
+        <img src={chai} className="img-fluid mx-auto mt-2" alt=".." width="300" />
       </center>
       <p
         class="text-muted lead "
